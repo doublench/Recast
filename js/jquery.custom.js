@@ -49,8 +49,8 @@
 		var ut_word_rotator = function() {
                 
 			var ut_rotator_words = [
+					'By <span>Craftzone </span>',
 				'In <span>Tas-ix </span>',
-				'In <span>Turon Telecom </span>',
 			] ,
 			counter = 0;                
 			
